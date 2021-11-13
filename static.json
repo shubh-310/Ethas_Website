@@ -1,5 +1,5 @@
 {
-    "root": "index.html",
+    "root": "public/index.html",
     "headers": {
       "/**": {
         "Cache-Control": "public, max-age=0, must-revalidate"
